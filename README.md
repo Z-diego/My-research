@@ -14,4 +14,4 @@ Welcome to the research repository of Diego Zafra Bono! The repository contains 
 - **Collaborators**: Prof. Susanne Yelin, Oriol Rubies Bigordà
 - **Status**: This is a small part of research I have conducted during my appointment as a Visiting Undergraduate Research Fellow at Harvard University in Professor Susanne Yelin's group. These contributions will be published in my Bachelor's thesis on [UPCommons](https://upcommons.upc.edu/)
 - **Abstract**: Theoretical and numerical study of the effect of gravitational redshift of subwavelength atomic arrays.
-- **Link**: [The effect of the gravitational redshift on subwavelength atomic arrays](https://github.com/Z-diego/My-research/blob/main/gravitational_redshift_on_atomic_arrays.pdf)
+- **Link**: [The effect of the gravitational redshift on subwavelength atomic arrays](https://github.com/Z-diego/My-research/blob/main/The_effect_of_the_gravitational_redshift_on_subwavelength_atomic_arrays.pdf)
